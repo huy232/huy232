@@ -2,7 +2,7 @@
 <h1 align="center"> ⬇️ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 ⬇️ </h1>
 <br>
 <div align="center">
-<img src="https://wallpaperaccess.com/full/2641100.gif">
+<img src="https://wallpaperaccess.com/full/2641100.gif?raw=true">
 </div>
 <br>
 <div>
