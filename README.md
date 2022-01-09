@@ -18,7 +18,7 @@
 </li>
 <li>
 <b>Hobby:</b> Tech stuff, Animation, Web Development, Solve algorithm puzzle to some degree,<br>
-                         Animes, Games
+                    Animes, Games
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
