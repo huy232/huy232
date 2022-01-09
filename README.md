@@ -30,8 +30,8 @@
 </div>
 <div>
 
-<p align="center"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/><img src="./image/React.svg"/><img src ="./image/SASS.svg"/><br>
- <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src="./image/PostgreSQL.svg"/><img src = "./image/MySQL.svg"/><img src ="./image/MongoDB.svg"/><br>
+<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/><img src="./image/React.svg"/><img src ="./image/SASS.svg"/><br><br>
+ <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src="./image/PostgreSQL.svg"/><img src = "./image/MySQL.svg"/><img src ="./image/MongoDB.svg"/><br><br>
 <img src ="./image/Heroku.svg"/><img src ="./image/Netlify.svg"/><br>
 
 <br>
