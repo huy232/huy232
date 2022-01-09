@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
-<img src="https://i.pinimg.com/originals/06/95/f6/0695f6d773f79217f094a05f67a9e810.gif" align="right">
+<img src="./image/about-me.gif?raw=true" height = "220px" align="right">
 <li>
 <b>Name:</b> Huy</li>
 <li>
@@ -26,7 +26,7 @@
 <div>
 <h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
 <p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="./image/knowledge.gif?raw=true" width="420px" align="right">
 </div>
 <div>
 
