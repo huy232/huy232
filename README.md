@@ -17,11 +17,12 @@
 <b>Gender:</b> Male, or anyone prefers me as a Boy!
 </li>
 <li>
-<b>Hobby:</b> Tech stuff, Animation, Web Development, Solve algorithm puzzle to some degree, Anime, Games
+<b>Hobby:</b> Tech stuff, Animation, Web Development, Solve algorithm puzzle to some degree,<br>
+                         Animes, Games
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
-                                    💯❤️‍🔥</b></p>
+                                      💯❤️‍🔥</b></p>
 </div>
 <div>
 <h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
