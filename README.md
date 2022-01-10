@@ -52,19 +52,13 @@ I used to take part as an <i><ins>Full-stack Web Developer Intern</ins></i> at <
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
-<p align="center"><a href="https://www.facebook.com/giahuythai/" target="_blank"><img src="./image/Facebook.svg"/></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=thaigiahuy230299@gmail.com" target="_blank"><img src="./image/Gmail.svg"/></a><br>📱: (+84)97 122 5101</p>
+<p align="center"><a href="https://www.facebook.com/giahuythai/" target="_blank"><img src="./image/Facebook.svg"/></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=thaigiahuy230299@gmail.com" target="_blank"><img src="./image/Gmail.svg"/></a><br><br>📱: (+84) 97 122 5101</p>
 </div>
 <br>
 <div>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<img align="center" src = "./image/hxh.gif">
+
+<img align="center" src = "./image/hxh.gif" width = "100%">
 <div>
     <h2 align ="center">⚔️ 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙎𝙩𝙖𝙩 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <img src ="./image/line2.gif" align ="right">
