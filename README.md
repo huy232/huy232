@@ -25,7 +25,7 @@
                                  💯❤️‍🔥</b></p>
 </div>
 <div>
-<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇 <img src="./image/line1.gif" height ="27px"></h2>
+<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 <img src="./image/line2.gif">📇</h2>
 <p>
 <img src="./image/knowledge.gif?raw=true" width="420px" align="right">
 </div>
@@ -39,7 +39,7 @@
 <p align="left">I'm mostly work with 𝗖𝗦𝗦, 𝗛𝗧𝗠𝗟, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 and 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 at the 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 and 𝗡𝗼𝗱𝗲.𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀 at the 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 and deploy around 𝗛𝗲𝗿𝗼𝗸𝘂, 𝗡𝗲𝘁𝗹𝗶𝗳𝘆</p>
 </p>
 <br>
-<h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
+<h2 align="right"><img src="./image/line1.gif">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
 <img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px">
 <br>
 <p align="center">Here are some of my  <br>
