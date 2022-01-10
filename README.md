@@ -25,7 +25,7 @@
                                  💯❤️‍🔥</b></p>
 </div>
 <div>
-<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇<img src="./image/line2.gif" height ="30px"></h2>
+<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇<img src="./image/line2.gif" height ="1%"></h2>
 <p>
 <img src="./image/knowledge.gif?raw=true" width="420px" align="right">
 </div>
@@ -40,7 +40,7 @@
 </p>
 <br>
 <h2 align="right"><img src="./image/line1.gif" height ="30px">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
-<img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px">
+<img src="./image/contact-me.gif" align="left" width="1%" height="208.5px">
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
