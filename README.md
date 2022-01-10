@@ -5,7 +5,7 @@
 <img src="./image/1.gif?raw=true" width ="1214px">
 </div>
 <br>
-<img src="./image/line1.gif" height ="40px" width ="100%">
+<img src="./image/line1.gif" height ="80px" width ="100%">
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
 <img src="./image/about-me.gif?raw=true" height = "220px" align="right">
