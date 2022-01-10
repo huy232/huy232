@@ -58,16 +58,12 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 
 <div>
-    <div  dir = "rtl">
-    <img src ="./image/line2.gif">
-    </div>
+    <img src ="./image/line2.gif" align ="right">
     <br>
-    <div dir = "ltr">
-    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "48%" height ="200px"/>
+    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "48%" height ="200px" align ="left"/>
     <br>
     <br>
-    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="48%" height ="200px"/>
-    </div>
+    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="48%" height ="200px" align ="left"/>
 </div>
 
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
