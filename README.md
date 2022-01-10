@@ -59,10 +59,10 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 
 <div>
     <div align = "left">
-    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "100%" height ="200px"/>
+    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px"/>
     <br>
     <br>
-    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="100%" height ="200px"/>
+    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="50%" height ="200px"/>
     </div>
     <div align ="right">
         <img src ="./image/line2.gif">
