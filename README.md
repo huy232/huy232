@@ -58,11 +58,11 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 
 <div>
-    <div  align = "right">
+    <div  dir = "rtl">
     <img src ="./image/line2.gif">
     </div>
     <br>
-    <div align = "left">
+    <div dir = "ltr">
     <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "48%" height ="200px"/>
     <br>
     <br>
