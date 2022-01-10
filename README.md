@@ -55,11 +55,11 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <br>
 <br>
-<p align = "center">
-<!-- ![Huy's GitHub stats](
-    https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true) -->
-    <a href ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true">
-</p>
+
+<div style = "display: flex; flex-direction: row">
+    <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true">
+</div>
+
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
 <div align="center">
 <img src="./image/2.gif">
