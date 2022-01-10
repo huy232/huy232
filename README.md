@@ -52,7 +52,7 @@ I used to take part as an <i><ins>Full-stack Web Developer Intern</ins></i> at <
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
-<p align="center"><a href="https://www.facebook.com/giahuythai/" target="_blank"><img src="./image/Facebook.svg"/></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=thaigiahuy230299@gmail.com" target="_blank"><img src="./image/Gmail.svg"/></a></p>
+<p align="center"><a href="https://www.facebook.com/giahuythai/" target="_blank"><img src="./image/Facebook.svg"/></a> <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=thaigiahuy230299@gmail.com" target="_blank"><img src="./image/Gmail.svg"/></a><br>📱: (+84)97 122 5101</p>
 </div>
 <br>
 <div>
@@ -64,6 +64,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <br>
 <br>
+<img align="center" src = "./image/hxh.gif">
 <div>
     <h2 align ="center">⚔️ 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙎𝙩𝙖𝙩 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <img src ="./image/line2.gif" align ="right">
@@ -96,6 +97,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
 <div align="center">
 <img src="./image/2.gif">
+<img src="./image/the-end.gif">
 </div>
 <hr>
 </div>
