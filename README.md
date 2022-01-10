@@ -59,7 +59,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 
 <div>
     <div  align = "right">
-    <img src ="./image/line2.gif">
+    <img src ="./image/line2.gif" width = "50%">
     </div>
     <br>
     <div align = "left">
