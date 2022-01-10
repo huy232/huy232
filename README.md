@@ -62,6 +62,8 @@ most used social info ヽ(o＾▽＾o)ノ</p>
     <br>
     <br>
     <br>
+    <br>
+    <br>
     <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="50%" height ="200px" align ="left"/>
 </div>
 <br>
