@@ -56,7 +56,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <br>
 
-<div style = "display: flex; flex-direction: row">
+<div style = "margin-left: auto; margin-right: auto">
     <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true">
 </div>
 
