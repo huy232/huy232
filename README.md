@@ -41,13 +41,13 @@
 <br>
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
-<img align="center" src="./image/work_ex.gif" >
+<img align="center" src="./image/work_ex.gif"/>
 <br>
 <p align="center">I used to take part as an <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>SCC - Specialist Computer Centres</strong></b> in Internship Program from <i>HUTECH University</i></p>
 <br>
 <br>
 <h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
-<img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px">
+<img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
