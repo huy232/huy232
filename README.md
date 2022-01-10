@@ -31,9 +31,9 @@
 </div>
 <div>
 
-<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/><img src="./image/React.svg"/><img src ="./image/SASS.svg"/><img src="./image/jQuery.svg"/><img src ="./image/React_Router.svg"/><br><br>
- <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src="./image/PostgreSQL.svg"/><img src = "./image/MySQL.svg"/><img src ="./image/MongoDB.svg"/><br><br>
-<img src ="./image/Heroku.svg"/><img src ="./image/Netlify.svg"/><br>
+<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src ="./image/SASS.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
+ <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src="./image/PostgreSQL.svg"/> <img src = "./image/MySQL.svg"/> <img src ="./image/MongoDB.svg"/><br><br>
+<img src ="./image/Heroku.svg"/> <img src ="./image/Netlify.svg"/><br>
 
 <br>
 <p align="left">I'm mostly work with <b><i>CSS, HTML, Javascript</i></b> and <b><i>ReactJS</i></b> at the <b>Front-end</b> and <b><i>Node.JS, Express</i></b> at the <b>Back-end</b> and deploy around <b>Heroku, Netlify, Vercel</b></p>
