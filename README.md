@@ -57,5 +57,8 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 </div>
 <hr>
 </div>
+
+![Huy's GitHub stats](https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true)
+
 </div>
 </body>
