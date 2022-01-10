@@ -56,6 +56,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 </div>
 <br>
 <div>
+<br>
 <img align="center" src = "./image/hxh.gif" width = "100%" height="350px">
 <div>
     <h2 align ="center">⚔️ 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙎𝙩𝙖𝙩 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
