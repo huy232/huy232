@@ -41,9 +41,10 @@
 <br>
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
+<p align="center">
 <img align="center" src="./image/work_ex.gif"/>
 <br>
-<p align="center">I used to take part as an <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>SCC - Specialist Computer Centres</strong></b> in Internship Program from <i>HUTECH University</i></p>
+I used to take part as an <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>SCC - Specialist Computer Centres</strong></b> in Internship Program from <i>HUTECH University</i></p>
 <br>
 <br>
 <h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
