@@ -25,7 +25,7 @@
                                  💯❤️‍🔥</b></p>
 </div>
 <div>
-<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
+<h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇 <img src="./image/line1.gif" height ="27px"></h2>
 <p>
 <img src="./image/knowledge.gif?raw=true" width="420px" align="right">
 </div>
