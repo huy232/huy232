@@ -56,9 +56,9 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <br>
 
-<div style = "display: flex; flex-direction: row">
+<div style = "display: flex; flex-direction: column; justify-content: center; align-items: center">
     <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width ="49.6%"/>
-    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=10" width ="49.6%"/>
+    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="49.6%"/>
 </div>
 
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
