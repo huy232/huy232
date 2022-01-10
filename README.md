@@ -56,9 +56,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 </div>
 <br>
 <div>
-<br>
-
-<img align="center" src = "./image/hxh.gif" width = "100%">
+<img align="center" src = "./image/hxh.gif" width = "100%" height="300px">
 <div>
     <h2 align ="center">⚔️ 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙎𝙩𝙖𝙩 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <img src ="./image/line2.gif" align ="right">
@@ -91,7 +89,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <h2 align="center">💖 𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙬𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙝𝙧𝙤𝙪𝙜𝙝 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚! 💖</h2>
 <div align="center">
 <img src="./image/2.gif">
-<img src="./image/the-end.gif">
+<img src="./image/the-end.gif" width = "100%">
 </div>
 <hr>
 </div>
