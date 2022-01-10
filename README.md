@@ -31,12 +31,12 @@
 </div>
 <div>
 
-<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/><img src="./image/React.svg"/><img src ="./image/SASS.svg"/><br><br>
+<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/><img src="./image/React.svg"/><img src ="./image/SASS.svg"/><img src="./image/jQuery.svg"/><img src ="./image/React_Router.svg"/><br><br>
  <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src="./image/PostgreSQL.svg"/><img src = "./image/MySQL.svg"/><img src ="./image/MongoDB.svg"/><br><br>
 <img src ="./image/Heroku.svg"/><img src ="./image/Netlify.svg"/><br>
 
 <br>
-<p align="left">I'm mostly work with 𝗖𝗦𝗦, 𝗛𝗧𝗠𝗟, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 and 𝗥𝗲𝗮𝗰𝘁𝗝𝗦 at the 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 and 𝗡𝗼𝗱𝗲.𝗝𝗦, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀 at the 𝗕𝗮𝗰𝗸-𝗲𝗻𝗱 and deploy around 𝗛𝗲𝗿𝗼𝗸𝘂, 𝗡𝗲𝘁𝗹𝗶𝗳𝘆</p>
+<p align="left">I'm mostly work with <b><i>CSS, HTML, Javascript</i></b> and <b><i>ReactJS</i></b> at the <b>Front-end</b> and <b><i>Node.JS, Express</i></b> at the <b>Back-end</b> and deploy around <b>Heroku, Netlify, Vercel</b></p>
 </p>
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
