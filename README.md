@@ -15,7 +15,7 @@
 <b>Gender:</b> Male, boy!
 </li>
 <li>
-<b>Hobby:</b> Tech stuff, animation, web development, solve algorithm puzzle to some degree (although I'm pretty bad at this), animes, games
+<b>Hobby:</b> Tech stuff, animation, web development, solve algorithm puzzles to some degree (although I'm pretty bad at this), animes, games
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
