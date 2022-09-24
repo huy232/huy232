@@ -12,13 +12,10 @@
 <li>
 <b>Name:</b> Huy</li>
 <li>
-<b>Loves:</b> you! Whoever are reading this!
+<b>Gender:</b> Male, boy!
 </li>
 <li>
-<b>Gender:</b> Male, or anyone prefers me as a Boy!
-</li>
-<li>
-<b>Hobby:</b> Tech stuff, Animation, Web Development, Solve algorithm puzzle to some degree, Animes, Games
+<b>Hobby:</b> Tech stuff, animation, web development, solve algorithm puzzle to some degree (although I'm pretty bad at this), animes, games
 </li>
 <br>
 <p><b>     Thanks for reading about my personal stuff<br>
@@ -31,12 +28,12 @@
 </div>
 <div>
 
-<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src ="./image/SASS.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
- <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src="./image/PostgreSQL.svg"/> <img src = "./image/MySQL.svg"/> <img src ="./image/MongoDB.svg"/><br><br>
-<img src ="./image/Heroku.svg"/> <img src ="./image/Netlify.svg"/><br>
+<p align="left"><img src="./image/css.svg"/> <img src="./image/html.svg"/> <img src="./image/javascript.svg"/> <img src="./image/React.svg"/> <img src="./image/jQuery.svg"/> <img src ="./image/React_Router.svg"/><br><br>
+ <img src="./image/Node.svg"/> <img src="./image/Express.svg"/> <img src = "./image/MySQL.svg"/> <img src ="./image/MongoDB.svg"/><br><br>
+<img src ="./image/Heroku.svg"/> <img src="./image/OnRender.svg"/> <img src ="./image/Netlify.svg"/> <img src="./image/Vercel.svg"/><br>
 
 <br>
-<p align="left">I'm mostly work with <b><i>CSS, HTML, Javascript</i></b> and <b><i>ReactJS</i></b> at the <b>Front-end</b> and <b><i>Node.JS, Express</i></b> at the <b>Back-end</b> and deploy around <b>Heroku, Netlify, Vercel</b></p>
+<p align="left">I'm mostly work with <b><i>CSS, HTML, Javascript</i></b> and <b><i>ReactJS</i></b> at the <b>Front-end</b> and <b><i>Node.JS, Express</i></b> at the <b>Back-end</b> and deploy around <b>Heroku, Netlify, Vercel, OnRender</b></p>
 </p>
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
@@ -45,7 +42,7 @@
 <br>
 <br>
 <br>
-I used to take part as an <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>SCC - Specialist Computer Centres</strong></b> in Internship Program from <i>HUTECH University</i></p>
+I used to take part as a <i><ins>Full-stack Web Developer Intern</ins></i> at <b><strong>SCC - Specialist Computer Centres</strong></b> in Internship Program from <i>HUTECH University</i></p>
 <br>
 <h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
 <img src="./image/contact-me.gif" align="left" width="373.5px" height="208.5px"/>
@@ -59,7 +56,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <img align="center" src = "./image/hxh.gif" width = "100%" height="350px">
 <div>
-    <h2 align ="center">⚔️ 𝘾𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧 𝙎𝙩𝙖𝙩 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
+    <h2 align ="center">⚔️ Stats 𝙇𝙀𝙑𝙀𝙇 𝙐𝙋! 🛡️</h2>
     <img src ="./image/line2.gif" align ="right">
     <br>
     <img class="img" src ="https://github-readme-stats.vercel.app/api?username=huy232&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true" width = "50%" height ="200px" align ="left"/>
